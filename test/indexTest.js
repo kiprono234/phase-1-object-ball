@@ -5,8 +5,8 @@ require("./helpers.js");
 
 describe("", () => {
   describe("", () => {
-    it("Test passing", () => {
-      return true;
+    it("Test ", () => {
+      return true
     });
   });
 });
